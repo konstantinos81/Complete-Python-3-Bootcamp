@@ -1,2 +1,28 @@
-First Line
-Second Line
+strings are ordered sequence
+tuples are immutable ordered sequence
+lists are mutable ordered sequence
+dictionaries has key with values pairing
+number are numerical information
+(80+(10**2/2)-29.75
+44
+29
+34
+floating number
+9**0.5=3
+3**2=9
+s[1]
+s[::-1]
+s[4]
+s[-1]
+[0,0,0]
+mylist[0,0,0]
+list3[2][2]
+list4.sort()
+d['simlpe_key']
+d['k1']['k2']
+d['k1']0]['nest_key'][1][0]
+d['k1']2]['k2'][1]['tough'][2][0]
+tuples are immutable
+unique number
+set(list5)
+
